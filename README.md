@@ -9,3 +9,5 @@ Notifyec2 is a project to notify Slack user of changes to your AWS account using
 ### Features
 
 Notifyec2 currently has the following features:
+
+- Send notifications to Slack when CloudWatch events occur.

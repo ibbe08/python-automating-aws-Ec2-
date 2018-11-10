@@ -1,5 +1,7 @@
 # coding: utf-8
+
 import boto3
+
 session = boto3.Session(profile_name='pythonautomation')
 as_client =session.client('autoscaling')
 
